@@ -1,0 +1,18 @@
+074 - 1 d(b)fs
+075 - 2 d(b)fs
+076 - 1 easy d(b)fs
+077 - 2 bfs
+078 - 1 d(b)fs graph coloring
+079 - 2 d(b)fs (cycle search)
+080 - 3 d(b)fs
+081 - 2 dijkstra
+082 - 2 floyd-warshall
+083 - 3 bellman-ford
+084 - 3 dijkstra
+085 - 4 bellman-ford
+086 - 4 dijkstra
+087 - 3 dfs (cycle search)
+088 - 2 dfs (topsort)
+089 - 3 dfs (topsort)
+090 - 3 dfs (topsort)
+091 - 4 dijkstra
